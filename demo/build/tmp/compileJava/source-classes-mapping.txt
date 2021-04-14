@@ -4,3 +4,7 @@ com/viewhigh/example/LinkedListReverse.java
  com.viewhigh.example.LinkedListReverse
 com/viewhigh/example/LinkedListExitsLoop.java
  com.viewhigh.example.LinkedListExitsLoop
+com/viewhigh/example/LinkedListDelNode.java
+ com.viewhigh.example.LinkedListDelNode
+com/viewhigh/example/LinkedListMiddleNode.java
+ com.viewhigh.example.LinkedListMiddleNode
